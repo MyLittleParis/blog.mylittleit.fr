@@ -27,8 +27,11 @@ Si tout semble ok côté imprimante, vous pouvez regarder rapidement sur le mac 
 
 ![pp](/images/printer-preferences.png)
 
-Si tous ces points sont bons, la dernière chose à faire est de supprimer l’imprimante et l’ajouter de nouveau.
+Si tous ces points sont bons, la methode radicale consiste à réinitilaiser le systeme d'impression en faisant un clic secondaire sur l'imprimante :
 
+![rps](/images/reset-printsystem.png)
+
+il ne vous reste plus qu'à ajouter de nouveau l'imprimante.
 
 Si le problème persiste, contacter votre service technique préféré !
 
