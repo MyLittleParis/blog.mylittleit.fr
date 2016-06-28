@@ -23,7 +23,9 @@ a.fb {
   font-size: 12px;
   text-decoration: none;
   padding: 4px;
-  vertical-align:middle;
+  text-align: left;
+  vertical-align: top;
+  white-space: nowrap;
 }
 
 .sidebar {
