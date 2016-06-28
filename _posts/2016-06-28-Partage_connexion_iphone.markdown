@@ -39,9 +39,7 @@ Attention, le partage de connexion consomme de la batterie sur votre iPhone, nâ€
 
 ![beyoncell](/images/beyoncell.gif)
  
-â€”
-Xavier 
-My Little Paris IT
+
 
 
 
