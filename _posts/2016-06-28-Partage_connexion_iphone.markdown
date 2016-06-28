@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comment Comment utiliser le partage de la connexion de mon iPhone ?
+title: Comment utiliser le partage de la connexion de mon iPhone ?
 category: posts
 ---
 
