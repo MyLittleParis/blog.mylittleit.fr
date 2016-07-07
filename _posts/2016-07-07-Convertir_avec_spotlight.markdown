@@ -8,7 +8,7 @@ Je vous propose une double astuce cette semaine !
 
 Est-ce qu’il vous arrive de devoir convertir des devises ou des unités ? La fonction Spotlight sur votre Mac sait le faire très rapidement !
 
-![si](images/spotlight_icon.png)
+![spotlight_icon](/images/spotlight_icon.png)
  
 - Pour afficher la barre de recherche de spotlight vous pouvez cliquer sur la petite loupe en haut à gauche votre écran, mais vous pouvez aller encore plus rapidement en appuyant simultanément sur les touches suivantes de votre clavier :
 Cmd + Espace
