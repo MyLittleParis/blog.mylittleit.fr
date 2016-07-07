@@ -3,6 +3,9 @@ layout: post
 title: Convertir des devises et des unités avec le mac.
 category: posts
 ---
+[UPDATE] : La conversion des devises et unités ne focntionne que depuis "El Capitan" (Mac Os X 10.11), les calculs continuent de fonctionner !
+
+
 
 Je vous propose une double astuce cette semaine !
 
