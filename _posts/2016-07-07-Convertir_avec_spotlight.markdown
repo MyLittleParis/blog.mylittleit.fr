@@ -17,8 +17,8 @@ Le champs de saisie s’affiche et vous pouvez commencer à taper votre recherch
 - Tapez un montant suivi du signe de la devise, spotlight vous affiche directement l’équivalent en euros ! Ca marche donc aussi avec les unités, si vous tapez 13” par exemple, vous connaitrez la taille en cm de la largeur de votre écran ;)
 Vous pouvez demander aussi à spotlight de faire des calculs simples. Par exemple, 14,90*1,2 vous donnera le montant avec la TVA ajoutée !
 
-spotlight_conv.png
+![spotlight_conv](/images/spotlight_conv.png)
 
 
 
-mind_blown.gif
+![mind_blown](/images/mind_blown.gif)
