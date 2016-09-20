@@ -35,10 +35,10 @@ On a la chance de pouvoir dupliquer nos données à l'infini !
 
 Alors je peux mettre mes fichiers sur un disque dur ?
 
-Absolument mais à une seule condition (bon 2 en fait) :
+**Absolument** mais à une seule condition (bon 2 en fait) :
 
-- Que les données n'existent pas uniquement sur ce disque dur
-- Que vous soyez sûrs que ce disque ne sera jamais perdu ou volé
+- Que les données n'existent **pas uniquement** sur ce disque dur
+- Que vous soyez sûrs que ce disque ne sera **jamais perdu ou volé**
 
 
 
