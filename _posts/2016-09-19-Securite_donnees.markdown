@@ -13,9 +13,9 @@ Aujourd'hui un sujet important qui peut toucher n'importe qui ...
 **☆La sauvegarde des données☆**
 
 Je vais commencer par vous révéler une chose :
-Les disques durs des ordinateurs tombent en panne. Toujours. Ca prends plus ou moins de temps, mais comme il y a des pièces mécaniques et de l'usure (comme pour les freins et l'huile dans votre voiture), ça finit toujours par tomber en panne. Toujours.
+Les disques durs des ordinateurs tombent en panne. Toujours. Ca prend plus ou moins de temps, mais comme il y a des pièces mécaniques et de l'usure (comme pour les freins et l'huile dans votre voiture), ça finit toujours par tomber en panne. Toujours.
 
-Alors on fait quoi, on se met en PLS et on attends que ça se passe ?
+Alors on fait quoi, on se met en PLS et on attend que ça se passe ?
 
 Non !
 
