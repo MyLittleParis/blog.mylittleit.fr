@@ -7,7 +7,7 @@ category: posts
 ![FindMyiPhone.png](/images/FindMyiPhone.png)
 
 Suite à quelques incidents, je me suis rendu compte qu'il était urgent que je vous parle de la fonction de localisation de vos iPhones (pros ou persos).
-C'est pratiquement aussi important que la sauvegarde de votre iPhone  dont on parlait dans cet article.
+C'est pratiquement aussi important que la sauvegarde de votre iPhone  dont on parlait dans cet [article](http://blog.mylittleit.fr/posts/2016/04/12/Les_Sauvegardes_iOS/).
 
 
 **A quoi ca sert ?**
