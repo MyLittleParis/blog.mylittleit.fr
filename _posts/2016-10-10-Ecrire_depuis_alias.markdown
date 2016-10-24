@@ -1,7 +1,10 @@
+---
+layout: post
+title: Comment écrire des mails depuis une adresse alternative ?
+category: posts
+---
+
 ![Mail-Gmail-icon](/images/Mail-Gmail-icon.png)
-
-
-
 
 Hello Paris,
 
