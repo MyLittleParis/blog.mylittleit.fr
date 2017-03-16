@@ -14,7 +14,6 @@ Il arrive que nos Macs ou iPhone se connectent automatiquement à un réseau mai
 À partir du moment où un iPhone ou un Mac se connecte avec succès à un réseau, il s'en souviendra et il existe une liste qui permet de gérer ces "favoris" :
 
 ![sshot_prefs_wifi_0](/images/sshot_prefs_wifi_0.png)
-
 ![sshot_prefs_wifi_1](/images/sshot_prefs_wifi_1.png)
 
 Si vous ne désirez plus que votre mac se connecte automatiquement au réseau free-wifi de votre voisin par exemple, il suffit de le supprimer de la liste.
