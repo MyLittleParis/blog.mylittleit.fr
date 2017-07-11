@@ -26,3 +26,5 @@ Une fenêtre s'ouvre, choisissez l'onglet "processeur" et triez tous les process
 Ici l'utilisation est tout à fait normale, mais si un logiciel prends plus de 80-90% de ressources sur une longue période et sans raisons apparentes, ça vaut le coup d'investiguer un peu avec l'équipe IT.
 
 Pour info, les précédentes mises à jour de Chrome peuvent poser problème avec certains sites, vérifiez que le votre est bien à jour !
+
+![hot-computer](/images/hot-computer.gif)
