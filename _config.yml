@@ -6,6 +6,6 @@ gems:
   - jekyll-sitemap
 
 name: MyLittleIT Blog
-url: http://blog.mylittleit.fr
+url: https://blog.mylittleit.fr
 description: Le blog de l'équipe IT My Little Paris
 twitter: My_Little_Paris
