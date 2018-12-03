@@ -5,7 +5,9 @@
 
 body {
   background-image: url("/images/background-bureau.jpg");
-  background-size: cover;
+  background-size: auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   font-family: 'Roboto', "Palatino Linotype", "Book Antiqua", Palatino, serif;
   -webkit-font-smoothing: antialiased;
 
