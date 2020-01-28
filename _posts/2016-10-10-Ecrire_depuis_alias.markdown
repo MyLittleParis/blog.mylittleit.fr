@@ -1,24 +1,21 @@
 ---
 layout: post
-title: Comment écrire des mails depuis une adresse alternative ?
+title: Comment écrire depuis un alias ?
 category: posts
 ---
-
 ![Mail-Gmail-icon](/images/Mail-Gmail-icon.png)
 
-Hello Paris,
 
-Nous sommes inscrits dans la fédération d’aqua poney !!!
 
-C’est le nouveau club de My Little Paris ! 
 
-Mais comme on l’assume pas… On a créé un alias mail pour communiquer à propos de ce sport bientôt olympique (note du comité international olympique : “l’aqua poney c’est le tur-fu“)
+Bonjour !
+
 
 ![aqua-poney](/images/aqua-poney.jpg)
 
-Plus sérieusement, si vous avez déjà demandé à l’équipe IT de vous créer une adresse alias pour ne pas communiquer votre adresse à des clients par exemple, vous allez recevoir leurs mails sur votre adresse principale, mais vous pouvez aussi leur écrire depuis cette adresse !
+Si vous avez déjà demandé à l’équipe IT de vous créer une adresse alias (aqua.poney@mylittleparis.com par exemple) pour ne pas communiquer votre adresse à des clients par exemple, vous allez recevoir leurs mails sur votre adresse principale, mais vous pouvez aussi leur écrire depuis cette adresse !
 
- C’est assez simple à configurer, il suffit de suivre les étapes suivantes : 
+C’est assez simple à configurer, il suffit de suivre les étapes suivantes : 
 
 
 Dans votre boîte mail cliquez sur la roue dentée :
@@ -42,8 +39,6 @@ Et pour finir, indiquez votre nom et l'adresse mail de l’alias (Aqua Poney en 
 
 ![capturefiltre6](/images/capturefiltre6.png)
 
-
-Et voilà ! Maintenant on peut annoncer au monde entier que Le MylittleAquaPoneyClub va gagner les championnats du monde !!!
 
 ![capturefiltre5](/images/capturefiltre5.png)
 
