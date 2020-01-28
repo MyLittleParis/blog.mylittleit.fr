@@ -4,6 +4,8 @@ title: Savez-vous vraiment faire des copier/coller ?
 category: posts
 ---
 
+![copy/paste](/images/copy-paste.gif)
+
 EST-CE QUE VOUS CONNAISSEZ VRAIMENT VOTRE COPIER / COLLER ?
 
 Cmd+C, Cmd+V, c'est la base vous me direz, mais il existe une petite variante qui peut faire gagner du temps lorsqu'on copie/colle régulièrement des valeurs.
