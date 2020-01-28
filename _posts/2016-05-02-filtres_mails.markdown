@@ -6,30 +6,31 @@ category: posts
 
 Bonjour !
 
-Il arrive que l'on reçoive dans sa boite mail (user@mylittleparis.com) des mails envoyés à un groupe (group@mylittleparis.com) dont on fait partie.
+Il arrive que l'on reçoive dans sa boite mail (user@mylittleparis.com par ex.) des mails envoyés à un groupe (group@mylittleparis.com par ex.) dont on fait partie.
 
 On peut automatiser le fait que ces mails soient regroupés sous un libellé dans Gmail !
 
-Lorsque vous faites une recherche pour afficher tous les mails envoyés à CE groupe (mais dont vous êtes destinataire) :
+Lorsque vous faites une recherche pour afficher tous les mails envoyés à **ce** groupe (mais dont vous êtes destinataire) ...
 
 ![filter](/images/filter.png)
 
 
-Vous pouvez cliquer sur le petit triangle inversé  …
+... vous pouvez cliquer sur le petit triangle inversé  …
 
 ![filter-options](/images/filter-options.png)
 
 
-… pour afficher les options de filtres. Indiquez que vous cherchez tous les mails envoyés à ce groupe.
-Sélectionnez ensuite l’option “créer un filtre à partir de cette recherche" :
+… pour afficher les options de filtres. 
+Indiquez que vous cherchez tous les mails envoyés à ce groupe et sélectionnez ensuite l’option "créer un filtre" :
 
 ![filter-options2](/images/filter-options2.png)
 
-Et vous avez accès à de nombreuses options.
-Vous pouvez appliquer automatiquement un libellé (existant ou nouveau) aux mails de cette recherche, pour les retrouver plus facilement. Et faire en sorte qu'ils ne soient pas affichés dans votre boite de reception mais uniquement sous le libélé.
+Vous avez alors accès à plusieurs options : 
+Appliquez un libellé (existant ou nouveau) aux mails de cette recherche et faites en sorte qu'ils ne soient pas affichés dans votre boite de reception.
 
 ![filter-options3](/images/filter-options3.png)
 
+Les mails répondant à cette recherche dans votre boite seront automatiquement rangés dans un dossier dès leur arrivée !
 
 En cas de bseoin, vous pouvez nous demander de l'aide ou laisser faire le chien :
 
