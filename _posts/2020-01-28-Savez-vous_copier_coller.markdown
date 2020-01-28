@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Savez-vous vraiment daire des copier/coller ?
+title: Savez-vous vraiment faire des copier/coller ?
 category: posts
 ---
 
