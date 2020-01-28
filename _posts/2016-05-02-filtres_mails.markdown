@@ -1,30 +1,27 @@
 ---
 layout: post
-title: Est-ce que je peux filtrer les fichiers qui prennent de la place dans ma boite mail ?
+title: Comment faire des filtres automatiques dans ma boite mail ?
 category: posts
 ---
 
 Bonjour !
 
-Aujourd’hui une petite astuce très utile pour faire de la place dans votre boite mail (gmail).
+Il arrive que l'on reçoive dans sa boite mail (user@mylittleparis.com) des mails envoyés à un groupe (group@mylittleparis.com) dont on fait partie.
 
+On peut automatiser le fait que ces mails soient regroupés sous un libellé dans Gmail !
 
-
-**BONUS !**
-
-On peut automatiser la recherche de ces mails et les regrouper sous un libellé dans Gmail !
-
-Vous avez par exemple saisi votre recherche qui affiche tous les mails avec des pièces jointes de plus de 10Mo (Mais vous pouvez utiliser n’importe quelle recherche !) :
+Lorsque vous faites une recherche pour afficher tous les mails envoyés à CE groupe (mais dont vous êtes destinataire) :
 
 ![filter](/images/filter.png)
 
 
-Cliquez ensuite sur le petit triangle inversé  …
+Vous pouvez cliquer sur le petit triangle inversé  …
 
 ![filter-options](/images/filter-options.png)
 
 
-… pour afficher les options de filtres. Sélectionnez ensuite l’option “créer un filtre à partir de cette recherche" :
+… pour afficher les options de filtres. Indiquez que vous cherchez tous les mails envoyés à ce groupe.
+Sélectionnez ensuite l’option “créer un filtre à partir de cette recherche" :
 
 ![filter-options2](/images/filter-options2.png)
 
@@ -32,6 +29,8 @@ Et vous avez accès à de nombreuses options.
 Vous pouvez appliquer automatiquement un libellé (existant ou nouveau) aux mails de cette recherche, pour les retrouver plus facilement.
 
 ![filter-options3](/images/filter-options3.png)
+
+Et faire en sorte qu'ils ne soient pas affichés dans votre boite de reception mais uniquement sous le libélé.
 
 
 Si vous avez besoin, vous pouvez nous demander de l'aide ou laisser faire le chien :
