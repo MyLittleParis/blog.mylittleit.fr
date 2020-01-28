@@ -32,7 +32,7 @@ Appliquez un libellé (existant ou nouveau) aux mails de cette recherche et fait
 
 Les mails répondant à cette recherche dans votre boite seront automatiquement rangés dans un dossier dès leur arrivée !
 
-En cas de bseoin, vous pouvez nous demander de l'aide ou laisser faire le chien :
+En cas de besoin, vous pouvez nous demander de l'aide ou laisser faire le chien :
 
 ![dog](/images/dog.gif)
 
