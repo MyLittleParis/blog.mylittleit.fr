@@ -26,14 +26,12 @@ Sélectionnez ensuite l’option “créer un filtre à partir de cette recherch
 ![filter-options2](/images/filter-options2.png)
 
 Et vous avez accès à de nombreuses options.
-Vous pouvez appliquer automatiquement un libellé (existant ou nouveau) aux mails de cette recherche, pour les retrouver plus facilement.
+Vous pouvez appliquer automatiquement un libellé (existant ou nouveau) aux mails de cette recherche, pour les retrouver plus facilement. Et faire en sorte qu'ils ne soient pas affichés dans votre boite de reception mais uniquement sous le libélé.
 
 ![filter-options3](/images/filter-options3.png)
 
-Et faire en sorte qu'ils ne soient pas affichés dans votre boite de reception mais uniquement sous le libélé.
 
-
-Si vous avez besoin, vous pouvez nous demander de l'aide ou laisser faire le chien :
+En cas de bseoin, vous pouvez nous demander de l'aide ou laisser faire le chien :
 
 ![dog](/images/dog.gif)
 
